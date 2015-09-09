@@ -9,35 +9,37 @@ defaults[projects][subdir] = "contrib"
 
 projects[admin_menu][version] = "3.0-rc5"
 
-projects[admin_views][version] = "1.4"
+projects[adminimal_admin_menu] = "1.6"
+
+projects[admin_views][version] = "1.5"
 
 projects[fpa][version] = "2.6"
 
 projects[module_filter][version] = "2.0"
 
-projects[advagg][version] = "2.7"
+projects[advagg][version] = "2.15"
+
+projects[advanced_help][version] = "1.3"
+
+projects[colorbox][version] = "2.9"
 
 projects[ctools][version] = "1.9"
 
-projects[ds][version] = "2.7"
+projects[ds][version] = "2.11"
 
 projects[filefield_paths][version] = "1.0-beta4"
 
 projects[float_filter][version] = "1.2"
 
-projects[image_resize_filter][version] = "1.14"
+projects[image_resize_filter][version] = "1.16"
 
 projects[mailchimp][version] = "3.2"
 
-projects[file_entity][version] = "2.x-dev"
+projects[file_entity][version] = "2.0-beta2"
 
-projects[media][version] = "2.0-alpha4"
-
-projects[advanced_help][version] = "1.2"
+projects[media][version] = "2.0-beta1"
 
 projects[back_to_top][version] = "1.4"
-
-projects[colorbox][version] = "2.8"
 
 projects[diff][version] = "3.2"
 
@@ -55,7 +57,7 @@ projects[libraries][version] = "2.2"
 
 projects[link][version] = 1.3
 
-projects[linkit][version] = "3.3"
+projects[linkit][version] = "3.4"
 
 projects[linkit_target][version] = "1.0"
 
@@ -67,7 +69,7 @@ projects[pathauto][version] = "1.2"
 
 projects[plupload][version] = "1.7"
 
-projects[redirect][version] = "1.0-rc1"
+projects[redirect][version] = "1.0-rc3"
 
 projects[robotstxt][version] = "1.3"
 
@@ -85,7 +87,7 @@ projects[globalredirect][version] = "1.5"
 
 projects[entitycache][version] = "1.2"
 
-projects[metatag][version] = "1.4"
+projects[metatag][version] = "1.7"
 
 projects[addanother][version] = "2.2"
 
@@ -93,7 +95,7 @@ projects[compact_forms][version] = "1.0"
 
 projects[content_menu][version] = "1.0"
 
-projects[jquery_update][version] = "2.5"
+projects[jquery_update][version] = "2.6"
 
 projects[responsive_menus][version] = "1.5"
 
@@ -101,9 +103,9 @@ projects[wysiwyg][version] = "2.x-dev"
 
 projects[variable][version] = "2.5"
 
-projects[views][version] = "3.10"
+projects[views][version] = "3.11"
 
-projects[views_bulk_operations][version] = "3.2"
+projects[views_bulk_operations][version] = "3.3"
 
 projects[xmlsitemap][version] = "2.2"
 
