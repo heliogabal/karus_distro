@@ -4,10 +4,10 @@
  *
  * Perform actions to set up the site for this profile.
  */
-function drupal_custom_install() {
-  // Enable some drupal_custom blocks.
-  $default_theme = 'und';
-  $admin_theme = 'shiny';
+function karus_distro_install() {
+  // Enable some karus_distro blocks.
+  $default_theme = 'business_ersponsive_theme';
+  $admin_theme = 'adminimal_theme';
   // disable all themes
   db_update('system')
     ->fields(array('status' => 0))
@@ -90,7 +90,7 @@ function drupal_custom_install() {
     $query->values($block);
   }
   $query->execute();
-  
+
   // Insert default pre-defined node types into the database. For a complete
   // list of available node type attributes, refer to the node type API
   // documentation at: http://api.drupal.org/api/HEAD/function/hook_node_info.
