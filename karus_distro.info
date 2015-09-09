@@ -67,9 +67,6 @@ dependencies[] = media_wysiwyg
 ; Other
 dependencies[] = advanced_help
 dependencies[] = back_to_top
-dependencies[] = better_formats
-dependencies[] = block_class
-dependencies[] = ckeditor_styles
 dependencies[] = colorbox
 dependencies[] = diff
 dependencies[] = entity
@@ -82,7 +79,7 @@ dependencies[] = linkit_target
 dependencies[] = login_destination
 dependencies[] = nice_menus
 dependencies[] = robotstxt
-dependencies[] = system_status
+;dependencies[] = system_status
 dependencies[] = token
 dependencies[] = transliteration
 ; Path management
