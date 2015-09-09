@@ -1,0 +1,116 @@
+; Packaging information for karus distribution
+name = "karus"
+description = "simple distribution for a basic unilingual site"
+exclusive = "1"
+core = "7.x"
+; ----------
+; Dependencies
+; ----------
+
+; Administration
+dependencies[] = admin_menu
+dependencies[] = admin_views
+dependencies[] = fpa
+dependencies[] = module_filter
+; Advanced CSS/JS Aggregation
+dependencies[] = advagg
+dependencies[] = advagg_bundler
+dependencies[] = advagg_css_compress
+dependencies[] = advagg_js_compress
+; Chaos tool suite
+dependencies[] = ctools
+; Core
+dependencies[] = block
+dependencies[] = contextual
+dependencies[] = field
+dependencies[] = field_sql_storage
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = filter
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = locale
+dependencies[] = menu
+dependencies[] = node
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = rdf
+dependencies[] = shortcut
+dependencies[] = system
+dependencies[] = taxonomy
+dependencies[] = text
+dependencies[] = translation
+dependencies[] = user
+; Display Suite
+dependencies[] = ds
+dependencies[] = ds_extras
+dependencies[] = ds_ui
+; Fields
+dependencies[] = filefield_nginx_progress
+dependencies[] = filefield_paths
+; Input filters
+dependencies[] = float_filter
+dependencies[] = image_resize_filter
+; MailChimp
+dependencies[] = mailchimp
+dependencies[] = mailchimp_activity
+dependencies[] = mailchimp_campaign
+dependencies[] = mailchimp_lists
+dependencies[] = mailchimp_signup
+; Media
+dependencies[] = file_entity
+dependencies[] = media
+dependencies[] = media_wysiwyg
+
+; Other
+dependencies[] = advanced_help
+dependencies[] = back_to_top
+dependencies[] = better_formats
+dependencies[] = block_class
+dependencies[] = ckeditor_styles
+dependencies[] = colorbox
+dependencies[] = diff
+dependencies[] = entity
+dependencies[] = entity_token
+dependencies[] = image_field_caption
+dependencies[] = invisimail
+dependencies[] = libraries
+dependencies[] = linkit
+dependencies[] = linkit_target
+dependencies[] = login_destination
+dependencies[] = nice_menus
+dependencies[] = robotstxt
+dependencies[] = system_status
+dependencies[] = token
+dependencies[] = transliteration
+; Path management
+dependencies[] = globalredirect
+dependencies[] = pathauto
+dependencies[] = redirect
+; Performance and scalability
+dependencies[] = entitycache
+; SEO
+dependencies[] = metatag
+dependencies[] = metatag_views
+; User interface
+dependencies[] = addanother
+dependencies[] = compact_forms
+dependencies[] = content_menu
+dependencies[] = jquery_update
+dependencies[] = responsive_menus
+dependencies[] = wysiwyg
+; Variable
+dependencies[] = variable
+dependencies[] = variable_realm
+dependencies[] = variable_store
+; Views
+dependencies[] = views
+dependencies[] = views_bulk_operations
+dependencies[] = views_ui
+; XML sitemap
+dependencies[] = xmlsitemap
+dependencies[] = xmlsitemap_menu
+; views
+dependencies[] = views_cache_bully
