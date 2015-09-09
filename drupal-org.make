@@ -25,6 +25,8 @@ projects[colorbox][version] = "2.9"
 
 projects[ctools][version] = "1.9"
 
+projects[dhtml_menu][version] = "1.0-beta1"
+
 projects[ds][version] = "2.11"
 
 projects[filefield_paths][version] = "1.0-beta4"
@@ -53,6 +55,14 @@ projects[leaflet][version] = "1.1"
 
 projects[leaflet_mapbox][version] = 1.2
 
+projects[addressfield][version] = 1.1
+
+projects[geofield][version] = 2.3
+
+projects[geophp][version] = 1.7
+
+projects[geocoder][version] = 1.2
+
 projects[libraries][version] = "2.2"
 
 projects[link][version] = 1.3
@@ -77,6 +87,10 @@ projects[search_api][version] = 1.16
 
 projects[search_api_db][version] = 1.5
 
+projects[search_api_page][version] = 1.2
+
+projects[simplify][version] = "3.3"
+
 projects[system_status][version] = "2.7"
 
 projects[token][version] = "1.6"
@@ -98,6 +112,8 @@ projects[content_menu][version] = "1.0"
 projects[jquery_update][version] = "2.6"
 
 projects[responsive_menus][version] = "1.5"
+
+projects[webform][version] = 4.10
 
 projects[wysiwyg][version] = "2.x-dev"
 
@@ -176,6 +192,13 @@ libraries[mailchimp][download][type] = "get"
 libraries[mailchimp][download][url] = "http://apidocs.mailchimp.com/api/downloads/mailchimp-api-class.zip"
 libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][destination] = "libraries"
+
+; leaflet
+libraries[leaflet][directory_name] = "leaflet"
+libraries[leaflet][type] = "library"
+libraries[leaflet][destination] = "libraries"
+libraries[leaflet][download][type] = "get"
+libraries[leaflet][download][url] = "http://cdn.leafletjs.com/downloads/leaflet-0.7.5.zip"
 
 ; +++++ Translations +++++
 translations[] = de
