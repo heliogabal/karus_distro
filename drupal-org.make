@@ -67,9 +67,15 @@ projects[libraries][version] = "2.2"
 
 projects[link][version] = 1.3
 
-projects[linkit][version] = "3.4"
+projects[linkchecker][version] = 1.2
 
-projects[linkit_target][version] = "1.0"
+projects[linkit][version] = 3.4
+
+projects[linkit_target][version] = 1.0
+
+projects[linkit_views][version] = 2.x-dev
+; 3.4 compatibility https://www.drupal.org/node/2155463
+projects[linkit_views][patch][] = "https://www.drupal.org/files/issues/linkit_views-linkit-3x-compatibility-2155463-19.patch"
 
 projects[login_destination][version] = "1.1"
 
