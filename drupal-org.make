@@ -17,11 +17,11 @@ projects[fpa][version] = "2.6"
 
 projects[module_filter][version] = "2.0"
 
-projects[advagg][version] = "2.15"
+projects[advagg][version] = "2.16"
 
 projects[advanced_help][version] = "1.3"
 
-projects[colorbox][version] = "2.9"
+projects[colorbox][version] = "2.10"
 
 projects[ctools][version] = "1.9"
 
@@ -29,7 +29,7 @@ projects[dhtml_menu][version] = "1.0-beta1"
 
 projects[ds][version] = "2.11"
 
-projects[filefield_paths][version] = "1.0-beta4"
+projects[filefield_paths][version] = "1.0-rc1"
 
 projects[float_filter][version] = "1.2"
 
@@ -51,11 +51,11 @@ projects[image_field_caption][version] = "2.1"
 
 projects[invisimail][version] = "1.2"
 
-projects[leaflet][version] = "1.1"
+projects[leaflet][version] = "1.3"
 
 projects[leaflet_mapbox][version] = 1.2
 
-projects[addressfield][version] = 1.1
+projects[addressfield][version] = 1.2
 
 projects[geofield][version] = 2.3
 
@@ -81,7 +81,7 @@ projects[login_destination][version] = "1.1"
 
 projects[nice_menus][version] = "2.5"
 
-projects[pathauto][version] = "1.2"
+projects[pathauto][version] = "1.3"
 
 projects[plupload][version] = "1.7"
 
@@ -119,7 +119,7 @@ projects[jquery_update][version] = "2.6"
 
 projects[responsive_menus][version] = "1.5"
 
-projects[webform][version] = 4.10
+projects[webform][version] = 4.11
 
 projects[wysiwyg][version] = "2.x-dev"
 
