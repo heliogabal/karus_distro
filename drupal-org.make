@@ -101,6 +101,8 @@ projects[geophp][version] = 1.7
 
 projects[geocoder][version] = 1.2
 
+projects[httprl][version] = 1.14
+
 projects[libraries][version] = "2.2"
 
 projects[link][version] = 1.3
@@ -172,6 +174,8 @@ projects[variable][version] = "2.5"
 projects[views][version] = "3.11"
 
 projects[views_bulk_operations][version] = "3.3"
+
+projects[viewfield][version] = 2.0
 
 projects[xmlsitemap][version] = "2.2"
 
