@@ -13,9 +13,45 @@ projects[adminimal_admin_menu] = "1.6"
 
 projects[admin_views][version] = "1.5"
 
+projects[addressfield_autocomplete][version] = "1.x-dev"
+
+projects[autocomplete_deluxe][version] = "2.1"
+
+projects[breakpoints][version] = "1.3"
+
+projects[context][version] = "3.6"
+
+projects[devel][version] = "1.5"
+
+projects[entityreference][version] = "1.1"
+
+projects[feeds][version] = "2.0-beta1"
+
+projects[feeds_tamper][version] = "1.1"
+
+projects[flexslider][version] = "2.0-rc1"
+
 projects[fpa][version] = "2.6"
 
+projects[getdirections][version] = "3.2"
+
+projects[gmap][version] = "2.10"
+
+projects[ip_geoloc][version] = "1.28"
+
+projects[job_scheduler][version] = "2.0-alpha3"
+
+projects[joomla][version] = "1.0-alpha3"
+
+projects[l10n_update][version] = "2.0"
+
 projects[module_filter][version] = "2.0"
+
+projects[menu_block][version] = "2.7"
+
+projects[multiform][version] = "1.1"
+
+projects[pathologic][version] = "2.12"
 
 projects[advagg][version] = "2.16"
 
@@ -101,6 +137,10 @@ projects[simplify][version] = "3.3"
 
 projects[system_status][version] = "2.7"
 
+projects[taxonomy_manager][version] = "1.0"
+
+projects[term_merge][version] = "1.2"
+
 projects[token][version] = "1.6"
 
 projects[transliteration][version] = "3.2"
@@ -136,6 +176,14 @@ projects[views_bulk_operations][version] = "3.3"
 projects[xmlsitemap][version] = "2.2"
 
 projects[views_cache_bully][version] = "3.1"
+
+; +++++ Features +++++
+;bannerbilder
+projects[bannerbilder][type] = module
+projects[bannerbilder][download][type] = "git"
+projects[bannerbilder][download][url] = "https://github.com/heliogabal/bannerbilder.git"
+projects[bannerbilder][subdir] = "features"
+projects[bannerbilder][options][working-copy] = TRUE
 
 ; +++++ Themes +++++
 
