@@ -41,6 +41,8 @@ projects[file_entity][version] = "2.0-beta2"
 
 projects[media][version] = "2.0-beta1"
 
+projects[features][version] = "2.7"
+
 projects[back_to_top][version] = "1.4"
 
 projects[diff][version] = "3.2"
@@ -116,6 +118,8 @@ projects[compact_forms][version] = "1.0"
 projects[content_menu][version] = "1.0"
 
 projects[jquery_update][version] = "2.6"
+
+projects[picture][version] = "2.13"
 
 projects[responsive_menus][version] = "1.5"
 
