@@ -21,13 +21,13 @@ projects[breakpoints][version] = "1.3"
 
 projects[context][version] = "3.6"
 
-projects[devel][version] = "1.5"
+;projects[devel][version] = "1.5"
 
 projects[entityreference][version] = "1.1"
 
-projects[feeds][version] = "2.0-beta1"
+;projects[feeds][version] = "2.0-beta1"
 
-projects[feeds_tamper][version] = "1.1"
+;projects[feeds_tamper][version] = "1.1"
 
 projects[flexslider][version] = "2.0-rc1"
 
@@ -41,7 +41,7 @@ projects[ip_geoloc][version] = "1.28"
 
 projects[job_scheduler][version] = "2.0-alpha3"
 
-projects[joomla][version] = "1.0-alpha3"
+;projects[joomla][version] = "1.0-alpha3"
 
 projects[l10n_update][version] = "2.0"
 
@@ -119,7 +119,7 @@ projects[linkit_views][patch][] = "https://www.drupal.org/files/issues/linkit_vi
 
 projects[login_destination][version] = "1.1"
 
-projects[nice_menus][version] = "2.5"
+;projects[nice_menus][version] = "2.5"
 
 projects[pathauto][version] = "1.3"
 
