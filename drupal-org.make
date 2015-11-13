@@ -65,7 +65,7 @@ projects[dhtml_menu][version] = "1.0-beta1"
 
 projects[ds][version] = "2.11"
 
-projects[filefield_paths][version] = "1.0-rc1"
+projects[filefield_paths][version] = "1.0-rc3"
 
 projects[float_filter][version] = "1.2"
 
@@ -149,7 +149,7 @@ projects[transliteration][version] = "3.2"
 
 projects[globalredirect][version] = "1.5"
 
-projects[entitycache][version] = "1.2"
+projects[entitycache][version] = "1.5"
 
 projects[metatag][version] = "1.7"
 
@@ -159,19 +159,19 @@ projects[compact_forms][version] = "1.0"
 
 projects[content_menu][version] = "1.0"
 
-projects[jquery_update][version] = "2.6"
+projects[jquery_update][version] = "2.7"
 
 projects[picture][version] = "2.13"
 
 projects[responsive_menus][version] = "1.5"
 
-projects[webform][version] = 4.11
+;projects[webform][version] = 4.12
 
 projects[wysiwyg][version] = "2.x-dev"
 
 projects[variable][version] = "2.5"
 
-projects[views][version] = "3.11"
+projects[views][version] = "3.13"
 
 projects[views_bulk_operations][version] = "3.3"
 
@@ -193,7 +193,7 @@ projects[bannerbilder][options][working-copy] = TRUE
 
 ; adminimal_theme
 projects[adminimal_theme][type] = "theme"
-projects[adminimal_theme][version] = "1.22"
+projects[adminimal_theme][version] = "1.23"
 projects[adminimal_theme][subdir] = ""
 
 ; mothership
