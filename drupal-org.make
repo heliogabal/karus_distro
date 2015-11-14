@@ -209,7 +209,7 @@ projects[parrot][subdir] = ""
 projects[karus_theme][type] = "theme"
 projects[karus_theme][download][type] = "git"
 projects[karus_theme][download][url] = "https://github.com/heliogabal/karus_theme.git"
-projects[karus_theme][download][branch] = live
+projects[karus_theme][download][branch] = master
 projects[karus_theme][options][working-copy] = TRUE
 projects[karus_theme][subdir] = ""
 
