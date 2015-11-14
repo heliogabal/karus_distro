@@ -262,5 +262,12 @@ libraries[leaflet][destination] = "libraries"
 libraries[leaflet][download][type] = "get"
 libraries[leaflet][download][url] = "http://cdn.leafletjs.com/downloads/leaflet-0.7.7.zip"
 
+; geocomplete
+libraries[geocomplete][directory_name] = "geocomplete"
+libraries[geocomplete][type] = "library"
+libraries[geocomplete][destination] = "libraries"
+libraries[geocomplete][download][type] = "get"
+libraries[geocomplete][download][url] = "https://github.com/ubilabs/geocomplete/archive/master.zip"
+
 ; +++++ Translations +++++
 translations[] = de
