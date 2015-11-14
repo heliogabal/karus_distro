@@ -149,7 +149,8 @@ projects[transliteration][version] = "3.2"
 
 projects[globalredirect][version] = "1.5"
 
-projects[entitycache][version] = "1.5"
+; use omega8 version instead...
+;projects[entitycache][version] = "1.5"
 
 projects[metatag][version] = "1.7"
 
