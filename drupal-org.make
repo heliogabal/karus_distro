@@ -114,8 +114,8 @@ projects[linkit][version] = 3.4
 projects[linkit_target][version] = 1.0
 
 projects[linkit_views][version] = 2.x-dev
-; 3.4 compatibility https://www.drupal.org/node/2155463
-projects[linkit_views][patch][] = "https://www.drupal.org/files/issues/linkit_views-linkit-3x-compatibility-2155463-19.patch"
+; 3.4 compatibility https://www.drupal.org/node/2155463 -- not working any more with linkit 3.4?
+;projects[linkit_views][patch][] = "https://www.drupal.org/files/issues/linkit_views-linkit-3x-compatibility-2155463-19.patch"
 
 projects[login_destination][version] = "1.1"
 
@@ -260,7 +260,7 @@ libraries[leaflet][directory_name] = "leaflet"
 libraries[leaflet][type] = "library"
 libraries[leaflet][destination] = "libraries"
 libraries[leaflet][download][type] = "get"
-libraries[leaflet][download][url] = "http://cdn.leafletjs.com/downloads/leaflet-0.7.7.zip"
+libraries[leaflet][download][url] = "http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.zip"
 
 ; geocomplete
 libraries[geocomplete][directory_name] = "geocomplete"
