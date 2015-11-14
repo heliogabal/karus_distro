@@ -198,14 +198,14 @@ projects[adminimal_theme][version] = "1.23"
 projects[adminimal_theme][subdir] = ""
 
 ; mothership
-projects[mothership][type] = "theme"
-projects[mothership][version] = "2.10"
-projects[mothership][subdir] = ""
+;projects[mothership][type] = "theme"
+;projects[mothership][version] = "2.10"
+;projects[mothership][subdir] = ""
 
 ; parrot
-projects[parrot][type] = "theme"
-projects[parrot][version] = "1.x-dev"
-projects[parrot][subdir] = ""
+;projects[parrot][type] = "theme"
+;projects[parrot][version] = "1.x-dev"
+;projects[parrot][subdir] = ""
 
 projects[karus_theme][type] = "theme"
 projects[karus_theme][download][type] = "git"
@@ -214,9 +214,9 @@ projects[karus_theme][download][branch] = master
 projects[karus_theme][options][working-copy] = TRUE
 projects[karus_theme][subdir] = ""
 
-projects[business_responsive_theme][type]= "theme"
-projects[business_responsive_theme][version] = "2.1"
-projects[business_responsive_theme][subdir] = ""
+;projects[business_responsive_theme][type]= "theme"
+;projects[business_responsive_theme][version] = "2.1"
+;projects[business_responsive_theme][subdir] = ""
 
 
 ; +++++ Libraries +++++
