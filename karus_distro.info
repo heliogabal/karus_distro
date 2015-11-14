@@ -55,11 +55,11 @@ dependencies[] = filefield_paths
 dependencies[] = float_filter
 dependencies[] = image_resize_filter
 ; MailChimp
-dependencies[] = mailchimp
-dependencies[] = mailchimp_activity
-dependencies[] = mailchimp_campaign
-dependencies[] = mailchimp_lists
-dependencies[] = mailchimp_signup
+;dependencies[] = mailchimp
+;dependencies[] = mailchimp_activity
+;dependencies[] = mailchimp_campaign
+;dependencies[] = mailchimp_lists
+;dependencies[] = mailchimp_signup
 ; Media
 dependencies[] = file_entity
 dependencies[] = media
@@ -93,7 +93,7 @@ dependencies[] = robotstxt
 dependencies[] = simplify
 dependencies[] = token
 dependencies[] = transliteration
-dependencies[] = webform
+;dependencies[] = webform
 ; Path management
 dependencies[] = globalredirect
 dependencies[] = pathauto
