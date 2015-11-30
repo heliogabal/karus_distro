@@ -69,6 +69,10 @@ projects[filefield_paths][version] = "1.0-rc3"
 
 projects[float_filter][version] = "1.2"
 
+projects[html_title][version] = "1.4"
+
+projects[html_title_trash][version] = "1.1"
+
 projects[image_resize_filter][version] = "1.16"
 
 projects[mailchimp][version] = "3.2"
