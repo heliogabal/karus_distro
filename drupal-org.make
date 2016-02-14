@@ -33,7 +33,7 @@ projects[entityreference][version] = "1.1"
 
 projects[fpa][version] = "2.6"
 
-projects[getdirections][version] = "3.2"
+;projects[getdirections][version] = "3.2"
 
 projects[gmap][version] = "2.10"
 
@@ -57,11 +57,11 @@ projects[advagg][version] = "2.17"
 
 projects[advanced_help][version] = "1.3"
 
-projects[colorbox][version] = "2.10"
+;projects[colorbox][version] = "2.10"
 
 projects[ctools][version] = "1.9"
 
-projects[dhtml_menu][version] = "1.0-beta1"
+;projects[dhtml_menu][version] = "1.0-beta1"
 
 projects[ds][version] = "2.13"
 
@@ -247,11 +247,11 @@ projects[karus_theme][subdir] = ""
 ;libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider/archive/flexslider1.zip"
 
 ; ColorBox
-libraries[colorbox][directory_name] = "colorbox"
-libraries[colorbox][type] = "library"
-libraries[colorbox][destination] = "libraries"
-libraries[colorbox][download][type] = "get"
-libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/master.zip"
+;libraries[colorbox][directory_name] = "colorbox"
+;libraries[colorbox][type] = "library"
+;libraries[colorbox][destination] = "libraries"
+;libraries[colorbox][download][type] = "get"
+;libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/master.zip"
 
 ; Plupload
 libraries[plupload][directory_name] = "plupload"

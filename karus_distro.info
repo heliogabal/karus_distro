@@ -25,7 +25,7 @@ dependencies[] = block
 dependencies[] = contextual
 dependencies[] = field
 dependencies[] = field_sql_storage
-dependencies[] = field_ui
+;dependencies[] = field_ui
 dependencies[] = file
 dependencies[] = filter
 dependencies[] = help
@@ -47,7 +47,7 @@ dependencies[] = user
 ; Display Suite
 dependencies[] = ds
 dependencies[] = ds_extras
-dependencies[] = ds_ui
+;dependencies[] = ds_ui
 ; Fields
 ;dependencies[] = filefield_nginx_progress
 dependencies[] = filefield_paths
@@ -76,7 +76,7 @@ dependencies[] = geocoder
 ; Other
 dependencies[] = advanced_help
 dependencies[] = back_to_top
-dependencies[] = colorbox
+;dependencies[] = colorbox
 dependencies[] = diff
 dependencies[] = entity
 dependencies[] = entity_token
@@ -87,7 +87,7 @@ dependencies[] = linkit
 dependencies[] = linkit_target
 dependencies[] = login_destination
 ;dependencies[] = nice_menus
-dependencies[] = dhtml_menu
+;dependencies[] = dhtml_menu
 dependencies[] = robotstxt
 ;dependencies[] = system_status
 dependencies[] = simplify
@@ -123,9 +123,14 @@ dependencies[] = variable_store
 ; Views
 dependencies[] = views
 dependencies[] = views_bulk_operations
-dependencies[] = views_ui
+;dependencies[] = views_ui
 ; XML sitemap
 dependencies[] = xmlsitemap
 dependencies[] = xmlsitemap_menu
 ; views
 dependencies[] = views_cache_bully
+
+; features
+dependencies[] = bannerbilder
+dependencies[] = karus_infocenter
+dependencies[] = karus_basis
