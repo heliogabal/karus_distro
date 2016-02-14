@@ -29,7 +29,7 @@ projects[entityreference][version] = "1.1"
 
 ;projects[feeds_tamper][version] = "1.1"
 
-projects[flexslider][version] = "2.0-rc1"
+;projects[flexslider][version] = "2.0-rc1"
 
 projects[fpa][version] = "2.6"
 
@@ -194,6 +194,20 @@ projects[bannerbilder][download][url] = "https://github.com/heliogabal/bannerbil
 projects[bannerbilder][subdir] = "features"
 projects[bannerbilder][options][working-copy] = TRUE
 
+;karus_infocenter
+projects[karus_infocenter][type] = module
+projects[karus_infocenter][download][type] = "git"
+projects[karus_infocenter][download][url] = "https://github.com/heliogabal/karus_infocenter.git"
+projects[karus_infocenter][subdir] = "features"
+projects[karus_infocenter][options][working-copy] = TRUE
+
+;karus_basis
+projects[karus_basis][type] = module
+projects[karus_basis][download][type] = "git"
+projects[karus_basis][download][url] = "https://github.com/heliogabal/karus_basis.git"
+projects[karus_basis][subdir] = "features"
+projects[karus_basis][options][working-copy] = TRUE
+
 ; +++++ Themes +++++
 
 ; adminimal_theme
@@ -226,11 +240,11 @@ projects[karus_theme][subdir] = ""
 ; +++++ Libraries +++++
 
 ; Flexslider
-libraries[flexslider][directory_name] = "flexslider"
-libraries[flexslider][type] = "library"
-libraries[flexslider][destination] = "libraries"
-libraries[flexslider][download][type] = "get"
-libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider/archive/flexslider1.zip"
+;libraries[flexslider][directory_name] = "flexslider"
+;libraries[flexslider][type] = "library"
+;libraries[flexslider][destination] = "libraries"
+;libraries[flexslider][download][type] = "get"
+;libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider/archive/flexslider1.zip"
 
 ; ColorBox
 libraries[colorbox][directory_name] = "colorbox"
