@@ -224,7 +224,7 @@ projects[karus_basis][options][working-copy] = TRUE
 
 ; adminimal_theme
 projects[adminimal_theme][type] = "theme"
-projects[adminimal_theme][version] = "1.23"
+projects[adminimal_theme][version] = "1.24"
 projects[adminimal_theme][subdir] = ""
 
 ; mothership
