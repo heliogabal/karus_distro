@@ -35,7 +35,7 @@ projects[fpa][version] = "2.6"
 
 ;projects[getdirections][version] = "3.2"
 
-projects[gmap][version] = "2.10"
+projects[gmap][version] = "2.11"
 
 projects[ip_geoloc][version] = "1.29"
 
@@ -53,7 +53,7 @@ projects[multiform][version] = "1.1"
 
 projects[pathologic][version] = "2.12"
 
-projects[advagg][version] = "2.17"
+projects[advagg][version] = "2.18"
 
 projects[advanced_help][version] = "1.3"
 
@@ -63,7 +63,7 @@ projects[ctools][version] = "1.9"
 
 ;projects[dhtml_menu][version] = "1.0-beta1"
 
-projects[ds][version] = "2.13"
+projects[ds][version] = "2.14"
 
 projects[filefield_paths][version] = "1.0"
 
@@ -81,13 +81,13 @@ projects[file_entity][version] = "2.0-beta2"
 
 projects[media][version] = "2.0-beta1"
 
-projects[features][version] = "2.7"
+projects[features][version] = "2.10"
 
 projects[back_to_top][version] = "1.5"
 
 projects[diff][version] = "3.2"
 
-projects[entity][version] = "1.6"
+projects[entity][version] = "1.7"
 
 projects[image_field_caption][version] = "2.1"
 
@@ -95,7 +95,7 @@ projects[invisimail][version] = "1.2"
 
 projects[leaflet][version] = "1.3"
 
-projects[leaflet_mapbox][version] = 1.3
+projects[leaflet_mapbox][version] = 1.5
 
 projects[addressfield][version] = 1.2
 
@@ -133,7 +133,7 @@ projects[redirect][version] = "1.0-rc3"
 
 projects[robotstxt][version] = "1.3"
 
-projects[search_api][version] = 1.16
+projects[search_api][version] = 1.18
 
 projects[search_api_db][version] = 1.5
 
@@ -156,7 +156,7 @@ projects[globalredirect][version] = "1.5"
 ; use omega8 version instead...
 ;projects[entitycache][version] = "1.5"
 
-projects[metatag][version] = "1.13"
+projects[metatag][version] = "1.14"
 
 projects[addanother][version] = "2.2"
 
