@@ -11,19 +11,19 @@ projects[admin_menu][version] = "3.0-rc5"
 
 projects[adminimal_admin_menu] = "1.7"
 
-projects[admin_views][version] = "1.5"
+projects[admin_views][version] = "1.6"
 
 projects[addressfield_autocomplete][version] = "1.x-dev"
 
-projects[autocomplete_deluxe][version] = "2.1"
+projects[autocomplete_deluxe][version] = "2.2"
 
 projects[breakpoints][version] = "1.4"
 
-projects[context][version] = "3.6"
+projects[context][version] = "3.7"
 
 ;projects[devel][version] = "1.5"
 
-projects[entityreference][version] = "1.1"
+projects[entityreference][version] = "1.4"
 
 ;projects[feeds][version] = "2.0-beta1"
 
@@ -37,7 +37,7 @@ projects[fpa][version] = "2.6"
 
 projects[gmap][version] = "2.10"
 
-projects[ip_geoloc][version] = "1.29"
+projects[ip_geoloc][version] = "1.30"
 
 projects[job_scheduler][version] = "2.0-alpha3"
 
@@ -45,21 +45,21 @@ projects[job_scheduler][version] = "2.0-alpha3"
 
 projects[l10n_update][version] = "2.0"
 
-projects[module_filter][version] = "2.0"
+projects[module_filter][version] = "2.1"
 
 projects[menu_block][version] = "2.7"
 
-projects[multiform][version] = "1.1"
+projects[multiform][version] = "1.3"
 
 projects[pathologic][version] = "2.12"
 
-projects[advagg][version] = "2.17"
+projects[advagg][version] = "2.24"
 
 projects[advanced_help][version] = "1.3"
 
 ;projects[colorbox][version] = "2.10"
 
-projects[ctools][version] = "1.9"
+projects[ctools][version] = "1.12"
 
 ;projects[dhtml_menu][version] = "1.0-beta1"
 
@@ -77,23 +77,23 @@ projects[image_resize_filter][version] = "1.16"
 
 projects[mailchimp][version] = "3.2"
 
-projects[file_entity][version] = "2.0-beta2"
+projects[file_entity][version] = "2.1"
 
-projects[media][version] = "2.0-beta1"
+projects[media][version] = "2.6"
 
 projects[features][version] = "2.7"
 
 projects[back_to_top][version] = "1.5"
 
-projects[diff][version] = "3.2"
+projects[diff][version] = "3.3"
 
-projects[entity][version] = "1.6"
+projects[entity][version] = "1.8"
 
 projects[image_field_caption][version] = "2.1"
 
 projects[invisimail][version] = "1.2"
 
-projects[leaflet][version] = "1.3"
+projects[leaflet][version] = "1.4"
 
 projects[leaflet_mapbox][version] = 1.3
 
@@ -133,21 +133,21 @@ projects[redirect][version] = "1.0-rc3"
 
 projects[robotstxt][version] = "1.3"
 
-projects[search_api][version] = 1.16
+projects[search_api][version] = 1.21
 
-projects[search_api_db][version] = 1.5
+projects[search_api_db][version] = 1.6
 
-projects[search_api_page][version] = 1.2
+projects[search_api_page][version] = 1.3
 
-projects[simplify][version] = "3.3"
+projects[simplify][version] = "3.4"
 
 projects[system_status][version] = "2.7"
 
 projects[taxonomy_manager][version] = "1.0"
 
-projects[term_merge][version] = "1.3"
+projects[term_merge][version] = "1.4"
 
-projects[token][version] = "1.6"
+projects[token][version] = "1.7"
 
 projects[transliteration][version] = "3.2"
 
@@ -156,7 +156,7 @@ projects[globalredirect][version] = "1.5"
 ; use omega8 version instead...
 ;projects[entitycache][version] = "1.5"
 
-projects[metatag][version] = "1.13"
+projects[metatag][version] = "1.21"
 
 projects[addanother][version] = "2.2"
 
@@ -168,27 +168,27 @@ projects[jquery_update][version] = "2.7"
 
 projects[picture][version] = "2.13"
 
-projects[responsive_menus][version] = "1.5"
+projects[responsive_menus][version] = "1.6"
 
 ;projects[webform][version] = 4.12
 
-projects[wysiwyg][version] = "2.x-dev"
+projects[wysiwyg][version] = "2.4"
 
 projects[variable][version] = "2.5"
 
-projects[views][version] = "3.13"
+projects[views][version] = "3.16"
 
-projects[views_bulk_operations][version] = "3.3"
+projects[views_bulk_operations][version] = "3.4"
 
-projects[viewfield][version] = 2.0
+projects[viewfield][version] = 2.1
 
-projects[xmlsitemap][version] = "2.2"
+projects[xmlsitemap][version] = "2.3"
 
 projects[views_cache_bully][version] = "3.1"
 
 projects[alinks][version] = 1.2
 
-projects[date][version] = 2.9
+projects[date][version] = 2.10
 
 projects[draggableviews][version] = 2.1
 
