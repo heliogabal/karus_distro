@@ -107,7 +107,7 @@ projects[geocoder][version] = 1.3
 
 projects[httprl][version] = 1.14
 
-projects[libraries][version] = "2.2"
+projects[libraries][version] = "2.3"
 
 projects[link][version] = 1.4
 
@@ -196,7 +196,7 @@ projects[extlink][version] = 1.18
 
 projects[smartcrop][version] = 1.0-beta2
 
-;projects[hide_sticky_promote] = git clone --branch 7.x-1.x https://git.drupal.org/sandbox/studiozut/2303677.git hide_sticky_promote
+projects[hide_sticky_promote] = git clone --branch 7.x-1.x https://git.drupal.org/sandbox/studiozut/2303677.git hide_sticky_promote
 
 ; +++++ Features +++++
 ;bannerbilder
