@@ -53,7 +53,7 @@ projects[multiform][version] = "1.3"
 
 projects[pathologic][version] = "2.12"
 
-projects[advagg][version] = "2.24"4
+projects[advagg][version] = "2.24"
 
 projects[advanced_help][version] = "1.3"
 
