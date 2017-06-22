@@ -43,7 +43,7 @@ projects[job_scheduler][version] = "2.0-alpha3"
 
 ;projects[joomla][version] = "1.0-alpha3"
 
-projects[l10n_update][version] = "2.0"
+projects[l10n_update][version] = "2.1"
 
 projects[module_filter][version] = "2.1"
 
@@ -53,7 +53,7 @@ projects[multiform][version] = "1.3"
 
 projects[pathologic][version] = "2.12"
 
-projects[advagg][version] = "2.24"
+projects[advagg][version] = "2.25"
 
 projects[advanced_help][version] = "1.3"
 
@@ -77,9 +77,9 @@ projects[image_resize_filter][version] = "1.16"
 
 projects[mailchimp][version] = "3.2"
 
-projects[file_entity][version] = "2.1"
+projects[file_entity][version] = "2.2"
 
-projects[media][version] = "2.6"
+projects[media][version] = "2.8"
 
 projects[features][version] = "2.10"
 
@@ -131,7 +131,7 @@ projects[plupload][version] = "1.7"
 
 projects[redirect][version] = "1.0-rc3"
 
-projects[robotstxt][version] = "1.3"
+projects[robotstxt][version] = "1.4"
 
 projects[search_api][version] = 1.21
 
