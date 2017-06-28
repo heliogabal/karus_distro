@@ -21,27 +21,15 @@ projects[breakpoints][version] = "1.4"
 
 projects[context][version] = "3.7"
 
-;projects[devel][version] = "1.5"
-
 projects[entityreference][version] = "1.4"
 
-;projects[feeds][version] = "2.0-beta1"
-
-;projects[feeds_tamper][version] = "1.1"
-
-;projects[flexslider][version] = "2.0-rc1"
-
 projects[fpa][version] = "2.6"
-
-;projects[getdirections][version] = "3.2"
 
 projects[gmap][version] = "2.11"
 
 projects[ip_geoloc][version] = "1.30"
 
 projects[job_scheduler][version] = "2.0-alpha3"
-
-;projects[joomla][version] = "1.0-alpha3"
 
 projects[l10n_update][version] = "2.1"
 
@@ -57,11 +45,7 @@ projects[advagg][version] = "2.25"
 
 projects[advanced_help][version] = "1.3"
 
-;projects[colorbox][version] = "2.10"
-
 projects[ctools][version] = "1.12"
-
-;projects[dhtml_menu][version] = "1.0-beta1"
 
 projects[ds][version] = "2.14"
 
@@ -89,7 +73,7 @@ projects[diff][version] = "3.3"
 
 projects[entity][version] = "1.8"
 
-projects[image_field_caption][version] = "2.1"
+projects[image_field_caption][version] = "2.2"
 
 projects[invisimail][version] = "1.2"
 
@@ -123,8 +107,6 @@ projects[linkit_views][version] = 2.x-dev
 
 projects[login_destination][version] = "1.4"
 
-;projects[nice_menus][version] = "2.5"
-
 projects[pathauto][version] = "1.3"
 
 projects[plupload][version] = "1.7"
@@ -153,9 +135,6 @@ projects[transliteration][version] = "3.2"
 
 projects[globalredirect][version] = "1.5"
 
-; use omega8 version instead...
-;projects[entitycache][version] = "1.5"
-
 projects[metatag][version] = "1.21"
 
 projects[addanother][version] = "2.2"
@@ -169,8 +148,6 @@ projects[jquery_update][version] = "2.7"
 projects[picture][version] = "2.13"
 
 projects[responsive_menus][version] = "1.6"
-
-;projects[webform][version] = 4.12
 
 projects[wysiwyg][version] = "2.4"
 
@@ -250,20 +227,6 @@ projects[karus_theme][subdir] = ""
 
 
 ; +++++ Libraries +++++
-
-; Flexslider
-;libraries[flexslider][directory_name] = "flexslider"
-;libraries[flexslider][type] = "library"
-;libraries[flexslider][destination] = "libraries"
-;libraries[flexslider][download][type] = "get"
-;libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider/archive/flexslider1.zip"
-
-; ColorBox
-;libraries[colorbox][directory_name] = "colorbox"
-;libraries[colorbox][type] = "library"
-;libraries[colorbox][destination] = "libraries"
-;libraries[colorbox][download][type] = "get"
-;libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/master.zip"
 
 ; Plupload
 libraries[plupload][directory_name] = "plupload"
