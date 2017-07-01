@@ -95,7 +95,7 @@ projects[libraries][version] = "2.3"
 
 projects[link][version] = 1.4
 
-projects[linkchecker][version] = 1.2
+projects[linkchecker][version] = 1.3
 
 projects[linkit][version] = 3.5
 
