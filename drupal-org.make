@@ -9,7 +9,7 @@ defaults[projects][subdir] = "contrib"
 
 projects[admin_menu][version] = "3.0-rc5"
 
-projects[adminimal_admin_menu] = "1.7"
+projects[adminimal_admin_menu] = "1.9"
 
 projects[admin_views][version] = "1.6"
 
@@ -17,11 +17,11 @@ projects[addressfield_autocomplete][version] = "1.x-dev"
 
 projects[autocomplete_deluxe][version] = "2.2"
 
-projects[breakpoints][version] = "1.4"
+projects[breakpoints][version] = "1.6"
 
 projects[context][version] = "3.7"
 
-projects[entityreference][version] = "1.4"
+projects[entityreference][version] = "1.5"
 
 projects[fpa][version] = "2.6"
 
@@ -29,7 +29,7 @@ projects[gmap][version] = "2.11"
 
 projects[ip_geoloc][version] = "1.30"
 
-projects[job_scheduler][version] = "2.0-alpha3"
+projects[job_scheduler][version] = "2.0"
 
 projects[l10n_update][version] = "2.1"
 
@@ -37,15 +37,15 @@ projects[module_filter][version] = "2.1"
 
 projects[menu_block][version] = "2.7"
 
-projects[multiform][version] = "1.3"
+projects[multiform][version] = "1.4"
 
 projects[pathologic][version] = "2.12"
 
-projects[advagg][version] = "2.25"
+projects[advagg][version] = "2.33"
 
 projects[advanced_help][version] = "1.3"
 
-projects[ctools][version] = "1.12"
+projects[ctools][version] = "1.14"
 
 projects[ds][version] = "2.14"
 
@@ -61,9 +61,9 @@ projects[image_resize_filter][version] = "1.16"
 
 projects[mailchimp][version] = "3.2"
 
-projects[file_entity][version] = "2.2"
+projects[file_entity][version] = "2.16"
 
-projects[media][version] = "2.8"
+projects[media][version] = "2.16"
 
 projects[features][version] = "2.10"
 
@@ -71,7 +71,7 @@ projects[back_to_top][version] = "1.5"
 
 projects[diff][version] = "3.3"
 
-projects[entity][version] = "1.8"
+projects[entity][version] = "1.9"
 
 projects[image_field_caption][version] = "2.2"
 
@@ -115,11 +115,11 @@ projects[redirect][version] = "1.0-rc3"
 
 projects[robotstxt][version] = "1.4"
 
-projects[search_api][version] = 1.21
+projects[search_api][version] = 1.22
 
 projects[search_api_db][version] = 1.6
 
-projects[search_api_page][version] = 1.3
+projects[search_api_page][version] = 1.4
 
 projects[simplify][version] = "3.4"
 
@@ -133,9 +133,9 @@ projects[token][version] = "1.7"
 
 projects[transliteration][version] = "3.2"
 
-projects[globalredirect][version] = "1.5"
+projects[globalredirect][version] = "1.6"
 
-projects[metatag][version] = "1.21"
+projects[metatag][version] = "1.22"
 
 projects[addanother][version] = "2.2"
 
@@ -153,7 +153,7 @@ projects[wysiwyg][version] = "2.4"
 
 projects[variable][version] = "2.5"
 
-projects[views][version] = "3.16"
+projects[views][version] = "3.18"
 
 projects[views_bulk_operations][version] = "3.4"
 
