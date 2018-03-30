@@ -173,6 +173,8 @@ projects[extlink][version] = 1.18
 
 projects[smartcrop][version] = 1.0-beta2
 
+projects[smtp][version] = 1.7
+
 ;projects[hide_sticky_promote] = git clone --branch 7.x-1.x https://git.drupal.org/sandbox/studiozut/2303677.git hide_sticky_promote
 
 ; +++++ Features +++++
@@ -262,6 +264,13 @@ libraries[geocomplete][type] = "library"
 libraries[geocomplete][destination] = "libraries"
 libraries[geocomplete][download][type] = "get"
 libraries[geocomplete][download][url] = "https://github.com/ubilabs/geocomplete/archive/master.zip"
+
+; YUI
+libraries[YUI-CSS-compressor-PHP-port][directory_name] = "YUI-CSS-compressor-PHP-port"
+libraries[YUI-CSS-compressor-PHP-port][type] = "library"
+libraries[YUI-CSS-compressor-PHP-port][destination] = "libraries"
+libraries[YUI-CSS-compressor-PHP-port][download][type] = "get"
+libraries[YUI-CSS-compressor-PHP-port] = https://github.com/tubalmartin/YUI-CSS-compressor-PHP-port/archive/master.zip
 
 ; +++++ Translations +++++
 translations[] = de
