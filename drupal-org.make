@@ -7,7 +7,7 @@ defaults[projects][subdir] = "contrib"
 
 ; +++++ Modules +++++
 
-projects[admin_menu][version] = "3.0-rc5"
+projects[admin_menu][version] = "3.0-rc6"
 
 projects[adminimal_admin_menu] = "1.9"
 
@@ -15,11 +15,11 @@ projects[admin_views][version] = "1.6"
 
 projects[addressfield_autocomplete][version] = "1.x-dev"
 
-projects[autocomplete_deluxe][version] = "2.2"
+projects[autocomplete_deluxe][version] = "2.3"
 
 projects[breakpoints][version] = "1.6"
 
-projects[context][version] = "3.7"
+projects[context][version] = "3.9"
 
 projects[entityreference][version] = "1.5"
 
@@ -35,9 +35,9 @@ projects[l10n_update][version] = "2.1"
 
 projects[module_filter][version] = "2.1"
 
-projects[menu_block][version] = "2.7"
+projects[menu_block][version] = "2.8"
 
-projects[multiform][version] = "1.4"
+projects[multiform][version] = "1.6"
 
 projects[pathologic][version] = "2.12"
 
@@ -45,15 +45,15 @@ projects[advagg][version] = "2.33"
 
 projects[advanced_help][version] = "1.3"
 
-projects[ctools][version] = "1.14"
+projects[ctools][version] = "1.15"
 
-projects[ds][version] = "2.14"
+projects[ds][version] = "2.16"
 
-projects[filefield_paths][version] = "1.0"
+projects[filefield_paths][version] = "1.1"
 
 projects[float_filter][version] = "1.2"
 
-projects[html_title][version] = "1.4"
+projects[html_title][version] = "1.5"
 
 projects[html_title_trash][version] = "1.1"
 
@@ -65,15 +65,15 @@ projects[file_entity][version] = "2.16"
 
 projects[media][version] = "2.16"
 
-projects[features][version] = "2.10"
+projects[features][version] = "2.11"
 
 projects[back_to_top][version] = "1.5"
 
-projects[diff][version] = "3.3"
+projects[diff][version] = "3.4"
 
 projects[entity][version] = "1.9"
 
-projects[image_field_caption][version] = "2.2"
+projects[image_field_caption][version] = "2.3"
 
 projects[invisimail][version] = "1.2"
 
@@ -81,19 +81,19 @@ projects[leaflet][version] = "1.4"
 
 projects[leaflet_mapbox][version] = 1.5
 
-projects[addressfield][version] = 1.2
+projects[addressfield][version] = 1.3
 
-projects[geofield][version] = 2.3
+projects[geofield][version] = 2.4
 
 projects[geophp][version] = 1.7
 
-projects[geocoder][version] = 1.3
+projects[geocoder][version] = 1.4
 
 projects[httprl][version] = 1.14
 
-projects[libraries][version] = "2.3"
+projects[libraries][version] = "2.5"
 
-projects[link][version] = 1.4
+projects[link][version] = 1.5
 
 projects[linkchecker][version] = 1.3
 
@@ -115,11 +115,11 @@ projects[redirect][version] = "1.0-rc3"
 
 projects[robotstxt][version] = "1.4"
 
-projects[search_api][version] = 1.22
+projects[search_api][version] = 1.25
 
-projects[search_api_db][version] = 1.6
+projects[search_api_db][version] = 1.7
 
-projects[search_api_page][version] = 1.4
+projects[search_api_page][version] = 1.5
 
 projects[simplify][version] = "3.4"
 
@@ -147,19 +147,19 @@ projects[jquery_update][version] = "2.7"
 
 projects[picture][version] = "2.13"
 
-projects[responsive_menus][version] = "1.6"
+projects[responsive_menus][version] = "1.7"
 
-projects[wysiwyg][version] = "2.4"
+projects[wysiwyg][version] = "2.5"
 
 projects[variable][version] = "2.5"
 
-projects[views][version] = "3.18"
+projects[views][version] = "3.20"
 
-projects[views_bulk_operations][version] = "3.4"
+projects[views_bulk_operations][version] = "3.5"
 
 projects[viewfield][version] = 2.1
 
-projects[xmlsitemap][version] = "2.3"
+projects[xmlsitemap][version] = "2.4"
 
 projects[views_cache_bully][version] = "3.1"
 
@@ -169,7 +169,7 @@ projects[date][version] = 2.10
 
 projects[draggableviews][version] = 2.1
 
-projects[extlink][version] = 1.18
+projects[extlink][version] = 1.20
 
 projects[smartcrop][version] = 1.0-beta2
 
@@ -203,7 +203,7 @@ projects[karus_basis][options][working-copy] = TRUE
 
 ; adminimal_theme
 projects[adminimal_theme][type] = "theme"
-projects[adminimal_theme][version] = "1.24"
+projects[adminimal_theme][version] = "1.25"
 projects[adminimal_theme][subdir] = ""
 
 ; mothership
