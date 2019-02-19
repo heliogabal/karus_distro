@@ -61,9 +61,9 @@ projects[image_resize_filter][version] = "1.16"
 
 projects[mailchimp][version] = "3.2"
 
-projects[file_entity][version] = "2.16"
+projects[file_entity][version] = "2.25"
 
-projects[media][version] = "2.16"
+projects[media][version] = "2.21"
 
 projects[features][version] = "2.11"
 
@@ -135,7 +135,7 @@ projects[transliteration][version] = "3.2"
 
 projects[globalredirect][version] = "1.6"
 
-projects[metatag][version] = "1.22"
+projects[metatag][version] = "1.25"
 
 projects[addanother][version] = "2.2"
 
@@ -159,7 +159,7 @@ projects[views_bulk_operations][version] = "3.5"
 
 projects[viewfield][version] = 2.1
 
-projects[xmlsitemap][version] = "2.4"
+projects[xmlsitemap][version] = "2.6"
 
 projects[views_cache_bully][version] = "3.1"
 
